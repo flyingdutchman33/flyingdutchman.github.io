@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+ <head>  
+ <meta charset="utf">   
+  <title>Sports</title>  
+ <body> 
+ <style>
+ th{
+     color: rgb(4, 120, 25);
+     font-family:fantasy;
+     }    
+ td{
+    color: rgb(186, 6, 39); 
+    font-family:Monospace;
+     }
+ </style>
+<table>
+ <tbody>
+  <th>Sport</th>   
+  <th>team name</th>   
+  <th>colors</th>   
+   <tr>
+    <td>Baseball</td>   
+    <td>NC Indians</td>
+    <td>Black/crimson</td>
+    </tr>  
+    <tr>
+    <td>Basketball</td>   
+    <td>Woodridge Titans</td>
+    <td>blue/green</td>
+    </tr>  
+    <tr>
+    <td>Football</td>   
+    <td>NC Giants</td>
+    <td>black/green</td>
+    </tr>   
+    <tr>
+    <td>Baseball</td>   
+    <td>Shadle Warriors</td>
+    <td>black/silver/white</td>
+    </tr>   
+    </tbody>   
+ 
+     <td>Football</td>   
+    <td>Shadle Yetis</td>
+    <td>black/white</td>
+ </table>    
+    
+</body>    
+</head>     
+</html>
